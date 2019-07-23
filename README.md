@@ -3,7 +3,7 @@
 
 Company(Hashworks IT Services Private Limited)_Internship_Project.
 
-Download all files(bg.png, bg1.png, index.css, index.html, jquery.min.js, logo.png) put it in one folder. 
+Download all files(bg.png, bg1.png, style.css, index.html, jquery.min.js, logo.png) put it in one folder. 
 After that run index.html file on your favorite browser. 
 
 Technology Used: HTML/HTML5, CSS/CSS3, JavaScript, jquery, JSON. 
